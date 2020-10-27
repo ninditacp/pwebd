@@ -1,0 +1,52 @@
+.kotak {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+ }
+
+#biodata {
+    font-family: "Trebuchet MS", Arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  #biodata td, #biodata th {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+
+  #biodata tr:nth-child(even){background-color: #f2f2f2;}
+  
+  #biodata tr:hover {background-color: #ddd;}
+  
+  #biodata th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #71c7ec
+}
+
+p.solid {
+    border-style: solid;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'muli';
+}
+body {
+    font-family: 'poppins', sans-serif;
+  }
+  h1 {
+    color: #fcfbf7; 
+    background-color: #0F5298;
+    text-align:center;
+ }
+  
+ h2 {
+    background-color: #66D3FA
+ }
+
+ footer {
+    padding: 20px;
+    color: white;
+    background-color: #0F5298
+ }
